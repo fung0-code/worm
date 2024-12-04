@@ -7,7 +7,8 @@ permalink: /
 
 # Worm
 
-### _v0.0.1_
+v0.0.1
+{: .label .label-red }
 
 **Worm** é uma modificação das regras de Cairn, escrito por [Yochai Gal](https://newschoolrevolution.com), vagamente inspirada em Tormenta20 com o objetivo de ser um conjunto sólido de regras fáceis de aprender e arbitrar. A geração de personagens é rápida e aleatória, aventuras são tensas e recompensam exploração cuidadosa, e o combate é descomplicado e mortal.
 
