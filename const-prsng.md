@@ -12,7 +12,7 @@ nav_order: 17
 1. Primeiro, role 2d6 + 3 para cada um dos seus atributos, em ordem. Depois disso, você pode trocar o resultado de dois deles (opcional).
 1. Em seguida, role 1d6 para definir sua Defesa máxima inicial. Seu personagem começa no nível 1, com 0 XP, e tem um inventário com capacidade para 10 itens.
 1. Agora, role ou escolha uma origem da lista a seguir, consulte-a e anote cada um dos itens listados. Este é o seu equipamento inicial.
-1. Por fim, dê um nome, pronomes e descreva a aparência e personalidade do seu personagem.
+1. Por fim, dê um nome, pronomes e descreva a aparência e personalidade do seu personagem. Se quiser mais recursos, você pode comprar outros itens, ou trocá-los por mercadorias de valor equivalente, no Mercado.
 
 ## Origens
 
