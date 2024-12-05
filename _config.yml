@@ -3,7 +3,7 @@ permalink: pretty
 remote_theme: pmarsceill/just-the-docs
 site.url: https://fung0-code.github.io/worm/
 logo: "/img/bitmap.png"
-favicon.ico: "/img/favicon.ico"
+favicon.ico: "/favicon.ico"
 color_scheme: light
 encoding: UTF-8
 plugins:
