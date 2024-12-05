@@ -3,6 +3,7 @@ permalink: pretty
 remote_theme: pmarsceill/just-the-docs
 site.url: https://fung0-code.github.io/worm/
 logo: "/img/bitmap.png"
+favicon.ico: "/img/favicon.ico"
 color_scheme: light
 encoding: UTF-8
 plugins:
@@ -14,7 +15,7 @@ include:
 back_to_top: true
 back_to_top_text: "Voltar ao topo"
 
-footer_content: "O texto neste website está licenciado sob <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.pt-br\">CC-BY-SA 4.0.</a>"
+footer_content: "O texto presente neste website está licenciado sob <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.pt-br\">CC-BY-SA 4.0.</a>"
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
