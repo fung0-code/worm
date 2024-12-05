@@ -4,6 +4,12 @@ body{
   font-family: "Crimson Text", serif;
 }
 
+h1, h2, h3, h4 {
+  font-family: "Crimson Text";
+  font-weight: 700;
+  font-style: normal;
+}
+
 tr:nth-child(even) td{
   background-color: #f2f2f2;
 }
