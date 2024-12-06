@@ -4,7 +4,9 @@ body{
   font-family: "Crimson Text", serif;
 }
 
-$link-color: $red-200;
+a{
+  color: #E94C4C;
+}
 
 h1, h2, h3, h4{
   font-family: "Besley";
