@@ -4,14 +4,6 @@ body{
   font-family: "Crimson Text", serif;
 }
 
-a {
-  color: #E94C4C;
-
-  &:hover{
-    color: color.scale(#E94C4C, $lightness: 20%);
-  }
-}
-
 h1, h2, h3, h4{
   font-family: "Besley";
   color: #DD2E2E;
@@ -42,12 +34,7 @@ tbody tr:last-of-type td{
   padding-bottom: .35rem;
 }
 
-h4, .text-delta{
-font-size: 12px !important;
-font-weight: 600;
-text-transform: uppercase;
-}
-
 .nav-list .nav-list-item .nav-list-link {
-font-size: 1rem;
+  font-size: 2rem;
+  color: #E94C4C
 }
