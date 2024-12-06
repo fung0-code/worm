@@ -32,9 +32,9 @@ nav_order: 17
 
 ## Atributos
 
-1. **Força (FOR).** Lorem ipsum.
-1. **Destreza (DES).** Lorem ipsum.
-1. **Sabedoria (SAB).** Lorem ipsum.
+1. **Força (FOR):** Usada para testes que exigem poder e resistência física, como arrombar portões ou aguentar o frio extremo, e para ataques corpo a corpo. Além disso, também representa sua saúde e quanto dano seu personagem aguenta antes de desmaiar.
+1. **Destreza (DES):** Usada para testes que exigem agilidade e coordenação motora, como ser furtivo ou desviar de algo, e para ataques à distância.
+1. **Sabedoria (SAB):** Usada para testes que exigem astúcia e força de vontade, como resistir a feitiços ou navegar em um navio, e para manipular magia.
 
 ## Defesa
 
@@ -43,9 +43,10 @@ nav_order: 17
 
 ## Inventário
 
-- Cada personagem começa com um total de **10 slots no inventário** para administrar seu equipamento. Nele, os itens podem ser divididos em duas categorias: **equipados** e **guardados**. Armas e armaduras estão equipadas se estiverem em uso. Presume-se que qualquer equipamento guardado esteja na **mochila**. A mochila também pode servir como um saco de dormir emergencial, desde que seja esvaziada de seus conteúdos.
-- O inventário é abstrato e depende apenas da ficção, conforme arbitrada pelo Mestre. Qualquer personagem com um inventário completo (ou seja, com todos os 10 slots ocupados) tem sua Defesa reduzida a 0. É possível expandir o espaço do inventário (confira X), mas não é possível carregar mais itens do que ele permite.
-- A maioria dos itens ocupa um slot, a menos que se indique outra coisa. Itens pequenos ou que podem ser agrupados numa mão não preenchem espaço. Itens volumosos ou desconfortáveis de se carregar ocupam dois slots. Um saco de moedas com valor inferior a 250pp, assim como uma aljava com menos de 20 flechas, é considerado pequeno, portanto, não ocupa slot algum.
+- Cada personagem começa com um total de **10 slots no inventário** para anotar seu equipamento. É possível expandir esse espaço (confira X), mas não carregar mais itens do que ele permite.
+- A maioria dos itens ocupa um slot, incluindo aqueles que podem ser agrupados numa mão. Itens bimanuais ou desconfortáveis de se carregar preenchem dois slots. Um saco com 250 moedas ocupa um slot completo.
+- O inventário é abstrato e só depende da ficção, conforme arbitrada pelo Mestre. Por isso, não se faz distinção entre itens guardados e equipados fora dela. Armas e armaduras estão equipadas se estiverem em uso, e presume-se que qualquer equipamento guardado esteja na **mochila**.
+- A mochila também pode servir como um saco de dormir emergencial, desde que seja esvaziada de seus conteúdos. Qualquer personagem com um inventário cheio (todos os slots preenchidos) tem sua Defesa reduzida a 0.
 
 ## Armas
 
