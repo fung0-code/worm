@@ -9,32 +9,28 @@ nav_order: 17
 
 ## Guia prático
 
-1. Primeiro, role 2d6 + 3 para cada um dos seus atributos, em ordem. Depois disso, você pode trocar o resultado de dois deles (opcional).
-1. Em seguida, role 1d6 para definir sua Defesa máxima inicial. Seu personagem começa no nível 1, com 0 XP, e tem um inventário com capacidade para 10 itens.
-1. Agora, role ou escolha uma origem da lista a seguir, consulte-a e anote cada um dos itens listados. Este é o seu equipamento inicial.
-1. Por fim, dê um nome, pronomes e descreva a aparência e personalidade do seu personagem. Se quiser mais recursos, você pode comprar outros itens, ou trocá-los por mercadorias de valor equivalente, no Mercado.
+1. Role ou escolha uma [Origem](#origens) da lista a seguir. Em seguida, consulte-a e anote os itens listados. Leia [Inventário](#inventário) para saber como registar seu equipamento inicial.
+1. Role 2d6 + 3 para cada [Atributo](#atributos), em ordem. Com isso, você pode trocar duas das pontuações obtidas (opcional).
+1. Role 1d6 para definir sua [Defesa](#defesa) máxima inicial.
+1. Por fim, dê um nome e descreva a aparência do seu personagem, ou role suas características na tabela [Traços](#traços), se precisar.
 
 ## Origens
 
-|         |             |        |     |
-|:--------|:------------|:-------|:----|
-| **d20** | **Origens** |        |     |
-| **1**   | x           | **11** | x   |
-| **2**   | x           | **12** | x   |
-| **3**   | x           | **13** | x   |
-| **4**   | x           | **14** | x   |
-| **5**   | x           | **15** | x   |
-| **6**   | x           | **16** | x   |
-| **7**   | x           | **17** | x   |
-| **8**   | x           | **18** | x   |
-| **9**   | x           | **19** | x   |
-| **10**  | x           | **20** | x   |
+|         |             |        |             |
+|:--------|:------------|:-------|:------------|
+| **d20** | **Origens** |        |             |
+| **1**   | Alquimista  | **7**  | Guerreiro   |
+| **2**   | Bárbaro     | **8**  | Ladino      |
+| **3**   | Bardo       | **9**  | Mago        |
+| **4**   | Clérigo     | **10** | Monge       |
+| **5**   | Druida      | **11** | Paladino    |
+| **6**   | Feiticeiro  | **12** | Patrulheiro |
 
 ## Atributos
 
-1. **Força (FOR):** Usada para testes que exigem poder e resistência física, como arrombar portões ou aguentar o frio extremo, e para ataques corpo a corpo. Além disso, também representa sua saúde e quanto dano seu personagem aguenta antes de desmaiar.
-1. **Destreza (DES):** Usada para testes que exigem agilidade e coordenação motora, como ser furtivo ou desviar de algo, e para ataques à distância.
-1. **Sabedoria (SAB):** Usada para testes que exigem astúcia e força de vontade, como resistir a feitiços ou navegar em um navio, e para manipular magia.
+1. **Força (FOR):** Usada para testes de poder e resistência física, como quebrar portões ou resistir a um envenenamento. Também representa sua saúde e quanto dano seu personagem aguenta antes de desmaiar.
+1. **Destreza (DES):** Usada para testes de agilidade e coordenação motora, como ser furtivo ou desviar de algo.
+1. **Sabedoria (SAB):** Usada para testes de astúcia e força de vontade, como manipular magia ou navegar em um navio.
 
 ## Defesa
 
@@ -47,6 +43,24 @@ nav_order: 17
 - A maioria dos itens ocupa um slot, incluindo aqueles que podem ser agrupados numa mão. Itens bimanuais ou desconfortáveis de se carregar preenchem dois slots. Um saco com 250 moedas ocupa um slot completo.
 - O inventário é abstrato e só depende da ficção, conforme arbitrada pelo Mestre. Por isso, não se faz distinção entre itens guardados e equipados fora dela. Armas e armaduras estão equipadas se estiverem em uso, e presume-se que qualquer equipamento guardado esteja na **mochila**.
 - A mochila também pode servir como um saco de dormir emergencial, desde que seja esvaziada de seus conteúdos. Qualquer personagem com um inventário cheio (todos os slots preenchidos) tem sua Defesa reduzida a 0.
+
+## Traços
+
+### Físico
+
+### Pele
+
+### Cabelo
+
+### Rosto
+
+### Fala
+
+### Roupas
+
+### Virtude
+
+### Defeito
 
 ## Armas
 
