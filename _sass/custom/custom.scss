@@ -4,8 +4,12 @@ body{
   font-family: "Crimson Text", serif;
 }
 
-a{
+a {
   color: #E94C4C;
+
+  &:hover{
+    color: color.scale(#E94C4C, $lightness: 20%);
+  }
 }
 
 h1, h2, h3, h4{
