@@ -28,10 +28,8 @@ nav_order: 3
 ## Mercenários
 
 - Os grupos de aventureiros podem recrutar mercenários, confiando nas suas capacidades, conhecimentos e treino únicos para ajudar nas expedições.
-- Para criar um mercenário, escolha um papel apropriado da tabela de mercenários no Mercado. Role 2d6 + 3 para cada atributo e 1d6 para sua Defesa. Dê também equipamento apropriado para o seu posto, e depois role nas tabelas de [Traços](/personagem#traços) para desenvolvê-lo ainda mais.
-- Ou, opcionalmente, escolha uma [Origem](/personagem#origens) e siga os passos do [Guia Pŕatico](/personagem#guia-prático).
-
-Em alternativa, escolha um passado e nome apropriados a partir do guia de Criação de Personagem. Role (ou escolha) as tabelas para esse passado. De seguida, role para Rações, Peças de ouro, Atributos, PV e idade.
+- Para criar um mercenário, escolha um papel apropriado da tabela de mercenários no Mercado. Role 2d6 + 3 para cada atributo e 1d6 para sua Defesa. Dê também equipamento apropriado para o seu posto, e depois role nas tabelas de [Traços](/personagem.md#traços) para desenvolvê-lo ainda mais.
+- Ou, opcionalmente, escolha uma [Origem](/personagem.md#origens) e siga os passos do [Guia Pŕatico](/personagem.md#guia-prático).
 
 ## Reações
 

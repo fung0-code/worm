@@ -36,11 +36,11 @@ nav_order: 2
 
 - Representa sua capacidade de evitar dano em combate.
 - Funciona como uma camada de proteção. Isto é, dano iminente reduz primeiro da sua Defesa antes de causar dano direto, que tira pontos de FOR.
-- Se algum ataque levar a sua Defesa exatamente a 0, consulte a tabela de [Cicatrizes](/regras-basicas#cicatrizes).
+- Se algum ataque levar a sua Defesa exatamente a 0, consulte a tabela de [Cicatrizes](/regras-basicas.md#cicatrizes).
 
 ## Inventário
 
-- Cada personagem começa com **10 slots no inventário** para anotar seu equipamento. É possível expandir esse espaço (confira [Cicatrizes](/regras-basicas#cicatrizes)), mas não se pode carregar mais itens do que ele permite.
+- Cada personagem começa com **10 slots no inventário** para anotar seu equipamento. É possível expandir esse espaço (confira [Cicatrizes](/regras-basicas.md#cicatrizes)), mas não se pode carregar mais itens do que ele permite.
 - A maioria dos itens ocupa um slot, incluindo os que podem ser agrupados numa mão. Itens bimanuais ou desconfortáveis de se carregar preenchem dois slots. _Um saco com 250 moedas ocupa um slot completo_.
 - O inventário é abstrato e só depende da ficção, conforme arbitrada pelo Mestre. Por isso, não se faz distinção entre itens guardados e equipados. Seu armamento está equipado se estiver em uso, e presume-se que qualquer equipamento guardado esteja na **mochila**.
 - A mochila também pode servir como um saco de dormir emergencial, desde que seja esvaziada de seus conteúdos. Qualquer personagem com um inventário cheio (todos os slots preenchidos) tem sua Defesa reduzida a 0.
