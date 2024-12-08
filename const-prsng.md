@@ -145,10 +145,10 @@ nav_order: 17
 
 ## Armas
 
-- 
+- Lorem ipsum
 
 ## Armaduras
 
-- Escudos e armaduras semelhantes fornecem um bônus de proteção (por exemplo, **+1 de Armadura**), mas somente enquanto o item estiver sendo usado. Alguns também podem oferecer benefícios adicionais, dependendo da ficção.
+- Escudos e armaduras semelhantes fornecem um bônus de proteção (por exemplo, **+1 de Armadura**), mas só enquanto estiver em uso. Alguns também podem oferecer benefícios adicionais, dependendo da ficção.
 - Antes de calcular algum dano, subtraia o valor de Armadura. Ou seja, se você ou algum inimigo recebe certo dano enquanto equipado com 1 ponto de Armadura, subtrai-se 1 do dano final.
-- Nenhum personagem, coadjuvante ou monstro pode ter mais de 3 de Armadura.
+- Nenhum personagem, coadjuvante ou monstro pode ter mais que 3 de Armadura.
