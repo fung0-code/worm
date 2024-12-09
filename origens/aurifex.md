@@ -2,6 +2,7 @@
 title: Acólito
 layout: default
 parent: origens
+nav_order: 1
 ---
 
 # Aurifex
