@@ -16,7 +16,7 @@ nav_order: 3
 ## Cura & Recuperação
 
 - Descansar um pouco e beber água restaura os pontos de Defesa perdidos, mas pode deixar o grupo exposto. Ataduras podem estabilizar um personagem que tenha sofrido danos críticos.
-- A perda de pontos de atributo (ver Dano Crítico) pode normalmente ser restaurada com uma semana de descanso, facilitada por um curandeiro ou outra fonte apropriada de conhecimento.
+- A perda de pontos de atributo (ver [Dano Crítico](#dano-crítico)) pode normalmente ser restaurada com uma semana de descanso, facilitada por um curandeiro ou outra fonte apropriada de conhecimento.
 - Alguns serviços de cura são gratuitos, enquanto que meios mágicos ou mais expeditos de recuperação podem ter um custo.
 
 ## Debilitação & Fadiga
