@@ -1,8 +1,7 @@
 ---
-title: Aurifex
+title: Acólito
 layout: default
-parent: Backgrounds
-grand_parent: Second Edition
+parent: origens
 ---
 
 # Aurifex

@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Construção de Personagem
-has_children: true
 nav_order: 2
 ---
 
