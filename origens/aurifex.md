@@ -1,7 +1,7 @@
 ---
 title: Acólito
 layout: default
-parent: origens
+parent: Origens
 nav_order: 1
 ---
 
