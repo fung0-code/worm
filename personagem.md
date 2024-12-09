@@ -10,7 +10,7 @@ nav_order: 2
 ## Guia Prático
 
 1. Role ou escolha uma [Origem](#origens) da lista a seguir. Em seguida, consulte-a e anote os itens listados. Leia [Inventário](#inventário) para saber como registar seu equipamento inicial.
-1. Role 2d6 + 3 para cada [Atributo](#atributos), em ordem. Com isso, você pode trocar duas das pontuações obtidas (opcional).
+1. Role 2d6 + 3 para cada [Atributo](#atributos), em ordem. Quando todos forem gerados, as pontuações de dois deles podem ser trocadas _(opcional)_.
 1. Role 1d6 para definir sua [Defesa](#defesa) máxima inicial.
 1. Por fim, dê um nome e descreva a aparência do seu personagem, ou role suas características na tabela [Traços](#traços), se precisar.
 
